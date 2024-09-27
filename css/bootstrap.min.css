@@ -6816,6 +6816,15 @@ fieldset:disabled .btn {
 .text-yellow {
   color: yellow !important;
 }
+.text-red {
+  color: red !important;
+}
+.text-green {
+  color: green !important;
+}
+.text-blue {
+  color: blue !important;
+}
 .text-body {
   color: gray !important;
 }
