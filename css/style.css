@@ -407,6 +407,16 @@
 /*** Carousel Hero Header End ***/
 
 /*** Single Page Hero Header Start ***/
+.bg-about {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(rgba(0, 20, 66, 0.7), rgba(0, 20, 66, 0.7)), url(../img/church.jpg);
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 120px 0 60px 0;
+    transition: 0.5s;
+}
 .bg-breadcrumb {
     position: relative;
     overflow: hidden;
